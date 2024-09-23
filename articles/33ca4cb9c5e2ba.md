@@ -1,4 +1,4 @@
----
+c---
 title: "個別要素法ライブラリYadeをDocker環境で構築する"
 emoji: "📘"
 type: "tech" # tech: 技術記事 / idea: アイデア
