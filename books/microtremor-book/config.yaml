@@ -1,9 +1,12 @@
 title: "SESAME Guidelineから学ぶ単点微動観測の手法と解釈"
 summary: "SESAME Guidelineは、単点微動観測の手法と解釈に関する国際的なガイドラインです。本書では、SESAME Guidelineの内容を解説し、実際の観測データを用いて解釈の方法を学びます。"
 topics: ["地震工学", "解析", "微動"]
-published: false
+published: true
 price: 0 # 有料の場合200〜5000
 # 本に含めるチャプターを順番に並べましょう
 chapters:
   - abstract
   - chapter1
+  - chapter2
+  - chapter3
+  - chapter4
